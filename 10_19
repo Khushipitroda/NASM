@@ -1,8 +1,6 @@
-a recursvie function is a function that calls itself
-to  solve a subset of the origional problem
-It must have a base case
+A recursvie function is a function that calls itself to  solve a subset of the origional problem. It must have a base case.
 
-;int fact(int n)
+int fact(int n);
 
 fact:
 	push ebp
